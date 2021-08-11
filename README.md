@@ -1,3 +1,1 @@
-A test site for SSRF
-How to run: install python3, then run app.py.
-Let me know if I messed anything up
+A hackable site. Run by installing python3, then running app.py with python3 app.py on Linux. For windows: py app.py
